@@ -9,6 +9,6 @@ Digits – Math Puzzle Game does not collect, store, or share any personal data.
 - No third-party SDKs that collect data
 
 If you have any questions about this policy, contact:
-**<your email address>**
+**neel.g.roy.games@gmail.com**
 
 This app is intended for all ages and functions fully offline.
